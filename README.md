@@ -7,7 +7,7 @@ Our goal is to analyze global **Data Science employment trends** and present the
 The project explores how data science jobs contribute to decent work in the digital era.  
 Using the [Data Science Salary 2021–2023 dataset](https://www.kaggle.com/datasets/harishkumardatalab/data-science-salary-2021-to-2023), we examine **salary distributions**, **work models**, and **experience-level effects** across countries to uncover key trends supporting SDG 8.
 
-![Infographic](images/screenshot.png)
+![Infographic](Infographic.png)
 
 ## Key Insights
 - **Average Salaries by Country**: Data science salaries vary significantly worldwide, with the highest averages observed in countries like Canada, Australia, and the United States.
