@@ -23,7 +23,7 @@ Using the [Data Science Salary 2021–2023 dataset](https://www.kaggle.com/datas
 ## Team Members
 - Renata Aqila Ridha Putri
 - Cresenshia Hillary Benida
-- Sherly Vaneza – 2702222163
+- Sherly Vaneza
 - Sophiana Kassandria Sukamto
 
 ## Conclusion
