@@ -26,7 +26,7 @@ The final deliverable is an infographic summarizing:
 - Trends in Data Science salaries (2020–2024).
 - Distribution of work models and employment types.
 
-![Infographic](Infographic.png)
+![Infographic](Infographic_Group%209_LA09.png)
 
 ## 💡 Key Findings
 - **Highest Paying Role:** *Analytics Engineering Manager*  
