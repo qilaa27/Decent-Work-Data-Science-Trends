@@ -1,45 +1,31 @@
 # Decent Work in the Digital Era: Data Science Trends
 
-This repository contains the final project for the course assignment **Case Study related to Sustainable Development Goals (SDG 8 – Decent Work and Economic Growth)**.  
-Our team analyzed the **[Data Science Salaries dataset](https://www.kaggle.com/datasets/harishkumardatalab/data-science-salary-2021-to-2023)** from Kaggle to explore global employment trends and salary distributions in the Data Science field from 2020–2024.
+This is the **final group project** for the SDG case study focusing on **Sustainable Development Goal (SDG) 8: Decent Work and Economic Growth**.  
+Our goal is to analyze global **Data Science employment trends** and present them as an informative infographic.
 
-## 🎯 Objective
-To provide insights into the growth of Data Science careers worldwide and how they support **SDG 8: Decent Work and Economic Growth** by:
-- Identifying the most in-demand job roles and their salary ranges.
-- Exploring salary trends across countries and years.
-- Examining work models (Remote, On-site, Hybrid) by company size.
-- Understanding employment types across experience levels.
+## Project Overview
+The project explores how data science jobs contribute to decent work in the digital era.  
+Using the [Data Science Salary 2021–2023 dataset](https://www.kaggle.com/datasets/harishkumardatalab/data-science-salary-2021-to-2023), we examine **salary distributions**, **work models**, and **experience-level effects** across countries to uncover key trends supporting SDG 8.
 
-## 📊 Dataset
-- **Total records:** ~6,600
-- **Variables:** 11 columns including job_title, experience_level, employment_type, work_models, work_year, employee_residence, salary_in_usd, company_location, and company_size.
-- **Source:** Kaggle & Trading Economics (for unemployment references).
+![Infographic](images/screenshot.png)
 
-## 🧩 Methods
-- Data cleaning: checked missing values, duplicates, and outliers.
-- Exploratory Data Analysis (EDA) using **R** with `ggplot2`, `dplyr`, `plotly`, and `leaflet`.
-- Interactive visualizations: bar charts, line charts, and choropleth world map to show salary distributions.
+## Key Insights
+- **Average Salaries by Country**: Data science salaries vary significantly worldwide, with the highest averages observed in countries like Canada, Australia, and the United States.
+- **Salary Trends Over Time**: From 2020 to 2024, salaries have generally increased, showing the growing demand and value of data science professionals.
+- **Work Models**: 57.8% of data science professionals work on-site, 38.8% work remotely, and 3.4% use hybrid models.
+- **Experience and Salary**: Higher experience levels consistently correlate with higher salaries, highlighting the value of skill development.
 
-## 🖼️ Infographic
-The final deliverable is an infographic summarizing:
-- Average salaries by country and experience level.
-- Trends in Data Science salaries (2020–2024).
-- Distribution of work models and employment types.
+## Methodology
+- **Data Understanding & Preparation**: Analyzed and cleaned the dataset of 6,600 records and 11 features (job title, experience level, employment type, work models, work year, employee residence, salary in USD, etc.).
+- **Visualization**: Created interactive and static visualizations using R (ggplot2, Plotly, Leaflet) to represent salary distributions, job types, and work models across countries and years.
+- **Infographic Design**: Composed a clear, A3-style infographic summarizing key findings and insights.
 
-![Infographic](Infographic_Group%209_LA09.png)
+## Team Members
+- Renata Aqila Ridha Putri
+- Cresenshia Hillary Benida
+- Sherly Vaneza – 2702222163
+- Sophiana Kassandria Sukamto
 
-## 💡 Key Findings
-- **Highest Paying Role:** *Analytics Engineering Manager*  
-- **Top Country:** United States and other tech-driven economies show highest salary averages.  
-- **Work Models:** Large companies favor **remote**, medium companies prefer **on-site**, and hybrid work is the least common.  
-- Salaries have shown a **steady increase** since 2021, supporting growth and decent work opportunities in the digital era.
-
-## 👥 Team Members
-- Renata Aqila Ridha Putri (2702244284)  
-- Cresenshia Hillary Benida (2702247683)  
-- Sherly Vaneza (2702222163)  
-- Sophiana Kassandria Sukamto (2702246945)
-
----
-
-*This analysis highlights how the Data Science field contributes to Sustainable Development Goal 8 by creating high-quality employment opportunities and showcasing positive economic growth trends.*
+## Conclusion
+Our analysis highlights the dynamic landscape of data science employment, illustrating how factors such as location, work model, and experience level influence salaries.  
+These insights align with **SDG 8** by demonstrating how data science offers promising opportunities for decent work and sustainable economic growth.
